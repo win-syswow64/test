@@ -50,7 +50,7 @@ li {
     -o-transition:height 0.2s ,border 0.2s linear;
 }
 .nav ul li:hover div {
-    height: 130px;
+    height: 200px;
     border: 1px solid rgb(189, 189, 189);
     z-index: 10;
 }
