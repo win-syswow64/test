@@ -1,0 +1,22 @@
+          *{
+              margin:0;padding:0;list-style: none;text-decoration: none;
+          }
+          body{
+              background: #ccc;
+          }
+          #logo{
+              float: left;margin:0px 1px 0 0;
+          }
+          form{
+              background: white;float: left;
+          }
+          #search-input{
+              outline:none;width:500px;height: 50px;line-height: 50px;float: left;border:0;
+   
+          }
+          #search-button{
+              background-image: url(./img/sousuo.png);background-repeat: no-repeat;background-color: white;width:40px;height: 30px;float: left;border:0;margin:8px;
+          }
+          #wrapper{
+              position: absolute;top:200px; left: 300px;
+          }
